@@ -2,8 +2,7 @@
 ![Grades in red marker](https://www.insidehighered.com/sites/default/server_files/media/grades_1.png "Grades")
 ## Summary
 Can we determine student performance based on a few key characteristics? This project analyzes
-roughly 33 attributes of students from two different Portuguese schools to determine performance in
-two distinct subjects: Mathematics and Portuguese.
+roughly 33 attributes of students from two different Portuguese schools to determine performance in Mathematics.
 ### Goals
 This project explores one major goal:
 1. Explore the most important attributes regarding student performance in two different Portuguese secondary
